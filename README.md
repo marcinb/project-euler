@@ -1,6 +1,6 @@
 project-euler
 =============
 
-Solving Project Euler problems using Clojure
+Solving http://projecteuler.net problems using Clojure
 
 <img src="http://projecteuler.net/profile/marcinbalinski.png"></img>
